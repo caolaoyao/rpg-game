@@ -1,0 +1,5593 @@
+Initialize engine version: 4.5.2f1 (9abb1b59b47c)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics (ID=0x152)
+    Vendor:   Intel
+    VRAM:     64 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\unity\haha\haha_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\unity\haha\haha_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\unity\haha\haha_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\unity\haha\haha_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\unity\haha\haha_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading E:\unity\haha\haha_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.047 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Details/BillboardWavingDoublePass' - Pass '' shader state not supported
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+UIScreenAdaptive:Start() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:29)
+ 
+(Filename: E Line: 0)
+
+Platform assembly: E:\unity\haha\haha_Data\Managed\System.dll (this message is harmless)
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
+分辨率1.333333   1.777778
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UIScreenAdaptive:Update() (at E:\unity\haha\Assets\Script\UIScreenAdaptive.cs:46)
+ 
+(Filename: E Line: 0)
+
